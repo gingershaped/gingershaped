@@ -7,6 +7,3 @@ I'm Ginger! I do [code golf](https://codegolf.stackexchange.com/users/108218/gin
 [![trophy](https://github-profile-trophy.vercel.app/?username=GingerIndustries&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 _Warning: this person knows materials and activities that may be dangerous._
-
-
-(they/them)
