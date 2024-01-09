@@ -5,6 +5,6 @@ I'm Ginger! I do [code golf](https://codegolf.stackexchange.com/users/108218/gin
 
 [![Ginger's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerindustries)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GingerIndustries&theme=onedark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GingerIndustries&theme=dark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 _Warning: this person knows materials and activities that may be dangerous._
