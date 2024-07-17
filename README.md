@@ -3,8 +3,8 @@
 # Hi
 I'm Ginger! I do [code golf](https://codegolf.stackexchange.com/users/108218/ginger) and make esolangs. Certified Epic Gamer™ and writer of chatbots. You can chat with me [here](https://chat.stackexchange.com/rooms/136286/the-sand-trap).
 
-[![Ginger's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerindustries)](https://github.com/anuraghazra/github-readme-stats)
+[![Ginger's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingershaped)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GingerIndustries&theme=dark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gingershaped&theme=dark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 _Warning: this person knows materials and activities that may be dangerous._
