@@ -4,3 +4,4 @@
 I'm Ginger! I do [code golf](https://codegolf.stackexchange.com/users/108218/ginger) and write curious programs.
 
 [![Ginger's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingershaped)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingershaped&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
