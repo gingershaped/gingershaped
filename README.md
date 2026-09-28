@@ -1,4 +1,1 @@
-https://gingershaped.computer
-
-[![Ginger's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingershaped)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gingershaped&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://gingershaped.computer"><img width="1200" height="513" alt="image" src="https://github.com/user-attachments/assets/df3b077e-1ec5-416d-b893-52cb482a8eae" /></a>
